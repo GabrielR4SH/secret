@@ -55,13 +55,13 @@ function App() {
     // choose a word
     const { category, word } = pickWordAndCategory();
 
-    console.log(category, word);
+    
 
     let wordLetters = word.split("");
 
     wordLetters = wordLetters.map((l) => l.toLowerCase());
 
-    // console.log(category, word);
+    
 
     setPickedCategory(category);
     setPickedWord(word);
@@ -100,7 +100,7 @@ function App() {
     }
   };
 
-  console.log(wrongLetters);
+  
 
   // restart the game
   const retry = () => {
