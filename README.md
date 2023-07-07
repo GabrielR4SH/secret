@@ -12,8 +12,8 @@ Descrição curta do projeto.
    git clone https://github.com/GabrielR4SH/secret.git
 
 2. Abra o terminal no diretorio do projeto e digite:
-3.  ```bash
-   npm install
+
+  ## npm install
 
    Depois digite: 
    ## npm start
