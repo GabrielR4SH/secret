@@ -1,4 +1,6 @@
-# Projeto da palavra secreta
+# Projeto da palavra secreta em ReactJS
+
+Um projeto de palavra secreta baseado no Programa do Silvo Santos, onde o jogador deve adivinhar a palavra com tentativas de letras
 
 ![ProjectPhoto](https://github.com/GabrielR4SH/secret/assets/59832080/a4fac6d2-55ec-4fd9-84f3-8d1a7efc3e91)
 
